@@ -1,0 +1,99 @@
+.env
+agent-ai/
+
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.virtualenv/
+
+# pip related
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Installer logs
+*.log
+
+# Unit test / coverage results
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Sphinx documentation
+docs/_build/
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Unix
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.temp
+*.tmp
+*.bak
+*.backup
+*.orig
+*.~*
+
+# Python environment management tools
+poetry.lock
+Pipfile.lock
+

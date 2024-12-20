@@ -1,0 +1,4 @@
+dotenv
+llama-index
+llama-index-experimental
+pandas
